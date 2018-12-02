@@ -1,0 +1,6 @@
+#!C:\Users\Aman Dudeja\PycharmProjects\FINAL VMS\venv\Scripts\python.exe
+
+from cx_Freeze import main
+
+main()
+
